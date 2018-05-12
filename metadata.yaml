@@ -1,0 +1,29 @@
+_repo: Lucy-RaymondOr-The-Children-s-Watchword_18248
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Machar, Agnes Maule
+    alias: Machar, Miss (Agnes Maule)
+    birthdate: 1837
+    deathdate: 1927
+    gutenberg_agent_id: '7899'
+    url: http://www.gutenberg.org/2009/agents/7899
+    wikipedia: http://en.wikipedia.org/wiki/Agnes_Maule_Machar
+description: ''
+gutenberg_issued: '2006-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18248'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children -- Religious life'
+- !lcc 'BV'
+- !lcc 'PZ'
+title: Lucy Raymond; Or, The Children's Watchword
+url: http://www.gutenberg.org/ebooks/18248
